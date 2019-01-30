@@ -1,2 +1,2 @@
-# ED_2k18
-Trabalhos de Estrutura de Dados
+# ED_2018
+Trabalhos e projetos de Estrutura de Dados
